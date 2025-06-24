@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Pranav Gavade
 
-<!--
-**Pranav-Gavade-2005/Pranav-Gavade-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** exploring how to build clean, functional, and user-friendly web applications — from frontend design to backend logic.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: MongoDB, Express, React, Node.js  
+- 🧠 Curious about: Web animations, REST APIs, clean UI  
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/pranav-gavade)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack 
+
+```bash
+Frontend:   HTML • CSS • JavaScript • React  
+Backend:    Node.js • Express  
+Database:   MongoDB • PostgreSQL • MySQL
+Tools:      Git • GitHub • VS Code • Postman
+Languages:  Java • C • C++  
